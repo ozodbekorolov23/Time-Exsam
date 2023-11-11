@@ -62,6 +62,7 @@ console.log(Numbers * Numbers1);
 
 
 var Numbers = 120
+
 var Numbers1 = 10354.03
 
  
